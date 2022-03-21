@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumaya1998
-- 👀 I’m interested in Front end Development
+- 👀 I’m interested in Front End Development and UX Research
 - 🌱 I’m currently learning MSc Computing.
 - 📫 How to reach me sumaya_ahmed98@outlook.com
 
